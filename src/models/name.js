@@ -1,0 +1,6 @@
+export const db = 'stack_oveflow'
+export const questionCollection = 'questions'
+export const answerCollection = 'answer'
+export const commentCollection = 'comments'
+export const voteCollection = 'votes'
+export const questionAttachmentBucket = 'question_attachments'
